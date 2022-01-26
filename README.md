@@ -1,4 +1,4 @@
-# specialoffers
+# specialoffers-backend
 
 Specialoffer adalah sebuah section promosi untuk client perusahaan diantaranya promosi hotel dan resort, entertaiment, food dan lain-lain
 
